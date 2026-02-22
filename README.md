@@ -20,6 +20,11 @@
 ---
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=DSA+Learner;C%2B%2B+Programmer;Future+SDE)
 
+---
+
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+
 ## 📊 GitHub Stats
 ![GitHub stats](https://github.com/CodeBy-Ayush/CodeBy-Ayush)
 
