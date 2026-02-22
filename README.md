@@ -18,6 +18,7 @@
 - Basics of OOP
 
 ---
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=DSA+Learner;C%2B%2B+Programmer;Future+SDE)
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github.com/CodeBy-Ayush/CodeBy-Ayush)
