@@ -13,7 +13,7 @@ Future Software Engineer 🚀 | DSA & Full-Stack Developer
 ## 🙋‍♂️ About Me
 - 🎓 **B.Tech CSE Student** at Lovely Professional University  
 - 💻 Strong in **Data Structures & Algorithms (C++)**
-- 🌐 Full-Stack Developer (React, Node.js,PHP, MongoDB)
+- 🌐 Full-Stack Developer (React, Node.js, PHP, MongoDB)
 - 🧠 Solved **200+ coding problems** (LeetCode & CodeChef)
 - 🎯 Goal: **Crack Product Based Companies**
 
