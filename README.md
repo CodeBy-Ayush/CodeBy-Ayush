@@ -49,7 +49,7 @@ Future Software Engineer 🚀 | DSA & Full-Stack Developer
 
 ---
 
-### ✈️ Travel Planner – Smart Trip Management Web App
+### ✈️ Traveler Planner – Smart Trip Management Web App
 - Personalized itinerary generation based on budget & duration  
 - Integrated live weather & location APIs  
 - Optimized backend with PHP & SQL
