@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 
 <h3 align="center">
-Future Software Engineer 🚀 | DSA & Full-Stack Developer
+Future Software Engineer  | DSA & Full-Stack Developer
 </h3>
 
 <p align="center">
