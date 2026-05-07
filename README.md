@@ -17,7 +17,7 @@ Future Software Engineer  | DSA & Full-Stack Developer
 - 🧠 Solved **200+ coding problems** (LeetCode & CodeChef)
 - 🎯 Goal: **Crack Product Based Companies**
 
----
+-----
 
 ## 🛠️ Tech Stack
 
