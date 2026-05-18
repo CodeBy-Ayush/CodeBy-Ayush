@@ -8,7 +8,7 @@ Future Software Engineer  | DSA & Full-Stack Developer
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=DSA+%26+Problem+Solving;C%2B%2B+%7C+React+%7C+Node.js;200%2B+Problems+Solved;Building+Real+World+Projects" />
 </p>
 
------
+------
 
 ## 🙋‍♂️ About Me
 - 🎓 **B.Tech CSE Student** at Lovely Professional University  
@@ -54,7 +54,7 @@ Future Software Engineer  | DSA & Full-Stack Developer
 - Integrated live weather & location APIs  
 - Optimized backend with PHP & SQL
 
----
+----
 
 ### 📊 Sorting Visualizer
 - Interactive animations of sorting algorithms  
